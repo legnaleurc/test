@@ -1,3 +1,3 @@
 #! /bin/sh
 
-echo 'Oops! snap!'
+echo 'Oh! snap!'
