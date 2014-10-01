@@ -1,4 +1,4 @@
 #! /bin/sh
 
-echo 'hello, askdfljaslfk'
+echo 'hello'
 exit 1
